@@ -88,10 +88,10 @@ for trainpercentage=trainsets
         end
         disp(accy_best);
         fprintf('\n=============================================================\n');
-        fprintf(['The average OA (10 iterations) of S3-PCA for ',database,' is %0.4f\n'],mean(accy_best));
-        fprintf(['The average OA (10 iterations) of S3-PCA for ',database,' is %0.4f\n'],mean(oacy_best));
-        fprintf(['The average AA (10 iterations) of S3-PCA for ',database,' is %0.4f\n'],mean(AAcy_best));
-        fprintf(['The average kappa (10 iterations) of S3-PCA for ',database,' is %0.4f\n'],mean(kappacy_best));
+        fprintf(['The average OA (10 iterations) of S3-ULDA for ',database,' is %0.4f\n'],mean(accy_best));
+        fprintf(['The average OA (10 iterations) of S3-ULDA for ',database,' is %0.4f\n'],mean(oacy_best));
+        fprintf(['The average AA (10 iterations) of S3-ULDA for ',database,' is %0.4f\n'],mean(AAcy_best));
+        fprintf(['The average kappa (10 iterations) of S3-ULDA for ',database,' is %0.4f\n'],mean(kappacy_best));
         fprintf('=============================================================\n');
 end
 
