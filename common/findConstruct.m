@@ -15,10 +15,16 @@ function [X_temp] = findConstruct(X,index,k)
         temp_dd = dd;
         if (sum(temp_dd==0)==k-1)
             X_temp(i,:) = X(i,:);
+            if isnan(X_temp(i,:))
+                X_temp(i,:)=0;
+            end
         else
             temp_w = exp(-dd.^2/(2*mean(dd))^2);
             temp_w = temp_w/sum(temp_w);
-            X_temp(i,:) = temp_w*temp_x;
+           X_temp(i,:) = temp_w*temp_x;
+            if isnan(X_temp(i,:))
+                X_temp(i,:)=0;
+            end
         end
     end
 end
