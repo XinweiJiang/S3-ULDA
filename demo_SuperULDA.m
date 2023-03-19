@@ -39,7 +39,7 @@ elseif strcmp(database,'Houston')
     num_PC           =   15;
 end
 data3D = data3D./max(data3D(:)); 
-labels = fororiphoto(data3D,num_Pixel,label_gt);
+labels = cubseg(data3D,num_Pixel);
 dataDR=SuperULDA(data3D,num_PC,k,labels);
 trainsets=[5,10,20,30,40,50,60];
 resultgeshu=1;
