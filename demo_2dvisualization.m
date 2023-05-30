@@ -38,7 +38,7 @@ elseif strcmp(database,'Houston')
     num_PC           =   15;
 end
 data3D = data3D./max(data3D(:)); 
-labels = fororiphoto(data3D,num_Pixel,label_gt);
+labels = cubseg(data3D,num_Pixel);
 dataDR=SuperULDA(data3D,num_PC,k,labels);
 [m,n,d]=size(dataDR);
 dataDRs=reshape(dataDR,m*n,d);
