@@ -3,6 +3,7 @@
 % Hyperspectral Imagery
 % If you  have any problem, do not hesitate to contact
 % Pengyu Lu (email:hello-lpy@qq.com)    
+% Methods were implemented on MATLAB R2016a
 %%% three datasets demo
 % 2022-11-6
 
