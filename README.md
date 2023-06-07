@@ -27,6 +27,14 @@ ON THE HOUSTON 2013 DATA SET.
 
 ![image](img/Houston2013.png)
 
+Classification maps of the  Indian Pines from different models.
+
+![image](img/Classificationmapsoftheindian.png)
+
+Classification maps of the University of Pavia from different models.
+
+![image](img/Classificationmapsofthepaviau.png)
+
 Classification maps of the Houston 2013 from different models.
 
 ![image](img/ClassificationmapsoftheHouston2013.png)
