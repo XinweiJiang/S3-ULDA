@@ -12,9 +12,21 @@ OAs from the proposed $S^3$-ULDA and some comparative algorithms on three HSIs d
 
 ![image](img/SVMresult.png)
 
-Classification maps of the Houston 2013 from different models.
+OA, AA AND KAPPA OBTAINED BY SEVERAL FEATURE EXTRACTION ALGORITHMS (COMBINED WITH THE SVM CLASSIFIER) ON THE INDIAN PINESDATA SET. 
+
+![image](img/Indian Pines.png)
+
+OA, AA AND KAPPA OBTAINED BY SEVERAL FEATURE EXTRACTION ALGORITHMS (COMBINED WITH THE SVM CLASSIFIER) ON THE UNIVERSITY OF PAVIA DATA SET.
+
+![image](img/University of Pavia.png)
+
+OA, AA AND KAPPA OBTAINED BY SEVERAL FEATURE EXTRACTION ALGORITHMS (COMBINED WITH THE SVM CLASSIFIER) ON THE HOUSTON 2013 DATA SET.
 
 ![image](img/Houston2013.png)
+
+Classification maps of the Houston 2013 from different models.
+
+![image](img/Classification maps of the Houston 2013.png)
 
 
 
