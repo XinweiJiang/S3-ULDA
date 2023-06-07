@@ -1,12 +1,13 @@
 # S3-ULDA
-Dimensionality reduction and classification of hyperspectral image based on S3-ULDA
-Models are tested on MATLAB R2016a
+Code for the paper 'Spectral-Spatial and Superpixelwise Unsupervised LDA for Unsupervised Feature Extraction of Hyperspectral Imagery' submitted to TGRS
 
-If you need another dataset (Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+The three HSIs data used in our paper can be downloaded from the following URLs.
 
-Salinas: http://www.ehu.eus/ccwintco/uploads/a/a3/Salinas_corrected.mat, http://www.ehu.eus/ccwintco/uploads/f/fa/Salinas_gt.mat
+Indian_pines: https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Indian_Pines
 
-If you need another dataset (Houston 2013), please feel free to contact me. Or you can download them from [http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes](https://hyperspectral.ee.uh.edu/?page_id=459)
+Pavia University: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene
+
+Houston2013: https://hyperspectral.ee.uh.edu/?page_id=459
 
 OAs from the proposed $S^3$-ULDA and some comparative algorithms on three HSIs data with different training data.
 
