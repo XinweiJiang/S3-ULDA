@@ -10,11 +10,11 @@ If you need another dataset (Houston 2013), please feel free to contact me. Or y
 
 OAS FROM THE PROPOSED $S^3$-ULDA AND SOME COMPARATIVE ALGORITHMS ON THREE HSIS DATA WITH DIFFERENT TRAINING DATA
 
-![image](./img/SVMresult.png)
+![image](img/SVMresult.png)
 
 Classification maps of the Houston 2013 from different models.
 
-![image](./img/Houston2013.png)
+![image](img/Houston2013.png)
 
 
 
