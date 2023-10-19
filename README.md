@@ -1,5 +1,14 @@
 # S3-ULDA
-Code for the paper 'Spectral-Spatial and Superpixelwise Unsupervised LDA for Unsupervised Feature Extraction of Hyperspectral Imagery' submitted to TGRS
+Code for the paper 'Spectral-spatial and Superpixelwise Unsupervised Linear Discriminant Analysis for Feature Extraction and Classification of Hyperspectral Images' accepted by TGRS.
+```
+@article{lu2023s3ulda,
+  title={Spectral-spatial and Superpixelwise Unsupervised Linear Discriminant Analysis for Feature Extraction and Classification of Hyperspectral Images,
+  author={Pengyu Lu and Xinwei Jiang and Yongshan Zhang and Xiaobo Liu and Zhihua Cai and Junjun Jiang and Antonio Plaza},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
+}
+```
 
 The three HSIs data used in our paper can be downloaded from the following URLs.
 
@@ -9,6 +18,7 @@ Pavia University: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sen
 
 Houston2013: https://hyperspectral.ee.uh.edu/?page_id=459
 
+<!--
 OAs from the proposed $S^3$-ULDA and some comparative algorithms on three HSIs data with different training data.
 
 ![image](img/SVMresult.png)
@@ -40,5 +50,5 @@ Classification maps of the Houston 2013 from different models.
 
 ![image](img/ClassificationmapsoftheHouston2013.png)
 
-
+-->
 
